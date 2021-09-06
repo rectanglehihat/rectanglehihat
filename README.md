@@ -19,6 +19,6 @@ There is no 'absolute' in the world. right?
 
 <br>
 
-### 🚀 Contact Me 🚀
-<img src="https://img.shields.io/badge/rectanglehihat@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.instagram.com/hahihuree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+### 🚀 About Me 🚀
+<a href="https://www.instagram.com/hahihuree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://rectanlgehihat.tistory.com/"><img src="https://img.shields.io/badge/ tistory -000000?style=flat-square&logo=tistory&logoColor=white"/></a>
