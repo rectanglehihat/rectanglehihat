@@ -5,7 +5,7 @@ There is no 'absolute' in the world. right?
 <br>
 
 #### 🌱 I’m currently learning Frontend development.
-#### 👻 What do I do for fun: play the drums, riging a ddareung-i
+#### 👻 What do I do for fun: play the drums, riding a ddareung-i
 
 <br>
 
