@@ -1,4 +1,4 @@
-### Hi, I'm Hyoni 👋
+### Hi, I'm hyoni 👋
 
 There is no 'absolute' in the world. right?
 
