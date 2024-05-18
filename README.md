@@ -4,11 +4,6 @@ There is no 'absolute' in the world. right?
 
 <br>
 
-#### 🌱 I’m Frontend developer.
-#### 👻 What do I do for fun: play the drums, riding a ddareung-i
-
-<br>
-
 ### 💡 Skills 💡
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
