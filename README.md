@@ -1,1 +1,1 @@
-### I'm hyoni, FE developer 👋
+### 👋 I'm hyoni, FE developer
